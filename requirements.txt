@@ -2,3 +2,11 @@ pandas
 numpy 
 scikit-learn 
 ipaddress
+tensorflow
+mlflow
+flask
+numpy
+pandas
+pickle-mixin
+scikit-learn
+
